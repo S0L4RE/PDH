@@ -21,6 +21,8 @@ body, html {
         background-color: #333;
       }
       .flex-container > div {
+        border-radius: 25px;
+        padding: 20px;
         width: 25%;
         height: 60px;
         margin: 0 auto;
